@@ -26,9 +26,13 @@
 3. Кнопки с запросами
 
 Выполняют предустановленные заданные SQL-запросы с выводом результатов на фиксированные вкладки 
+
 `SELECT name FROM users` -> вкладка 2
+
 `SELECT * FROM users WHERE name like '%Петров%'` -> вкладка 3
+
 `SELECT * FROM users WHERE age > 30` -> вкладка 4
+
 
 ![Работа с БД](images/4.png)
 ![Работа с БД](images/5.png)
